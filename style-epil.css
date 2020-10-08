@@ -37,7 +37,7 @@ body {
 .cadre01 {
 	background: linear-gradient(45deg, #ff5f2e, #c21818, #1e2fcc, #23a6d5, #15e6b5);
     background-size: 400% 100%;
-    animation: gradient 15s ease infinite;
+    animation: gradient 200ms ease infinite;
 	border-radius: 50% 20% / 10% 40%;
 	text-align:center;
 	align-items: center; 
@@ -52,8 +52,10 @@ body {
   }
 
   .cadre02 {
-	background: burlywood;
-	border-radius: 10% ;
+	background: linear-gradient(-45deg, #82ff2e, #c28718, hsl(234, 27%, 62%), #741cd8, #15e6b5);
+    background-size: 400% 100%;
+    animation: gradient 100ms ease infinite;
+    border-radius: 10% ;
 	text-align:center;
 	align-items: center; 
 	margin: auto;
