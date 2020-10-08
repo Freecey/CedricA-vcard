@@ -106,7 +106,7 @@ body {
 
 .sociallink {
 	float:left;
-	margin-top: -110px;
+	margin-top: -130px;
 	margin-left: -50px;
   }	
 
@@ -129,3 +129,7 @@ h1 {
 	font-size: 125%;
 	text-align:center; 
   }
+
+.ftsz100 {
+	font-size: 100%;
+}
