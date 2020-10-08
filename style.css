@@ -44,7 +44,7 @@ body {
 	margin: auto;
 	margin-top: 150px; 	
 	width: 500px;
-	height: 360px;
+	height: 350px;
 	padding:10px;
 	border:3px solid midnightblue;
 	opacity: 0.8;
@@ -113,24 +113,30 @@ body {
 
 .img-sec {
 	float:left;
-	margin-top: 35px;
+	margin-top: 30px;
 	margin-left: 15px;
   }	
 
  /* TAG custom H1 H2 */
 
 h1 {
-	font-size: 175%;
+	margin-top: 0px;
+	font-size: 24px;
 	text-align:center; 
 	/* Shadow effect */
 	text-shadow: 1px 1px 2px rgb(70, 69, 68), 0 0 1em rgb(37, 37, 71), 0 0 0.2em rgb(179, 122, 17);
   }
 
   h2 {
-	font-size: 125%;
+	margin-top: -10px;
+	font-size: 16px;
 	text-align:center; 
   }
-
+/*
 .ftsz100 {
 	font-size: 100%;
+} */
+
+p {
+	font-size: 12px;
 }
